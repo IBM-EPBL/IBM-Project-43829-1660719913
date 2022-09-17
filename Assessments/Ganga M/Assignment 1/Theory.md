@@ -41,3 +41,4 @@
 - WSGI stands for "Web Server Gateway Interface". It is used to forward requests from a web server (such as Apache or NGINX) to a backend Python web application or framework. From there, responses are then passed back to the webserver to reply to the requestor.
 
 - Requests are sent from the client's browser to the server. WSGI forwards the request to the webserver python app, which then returns the completed request back to the webserver and on to the browser
+
