@@ -5,6 +5,9 @@
 ### Skills :
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
 
+### Team ID: PNT2022TMID37472
+### Batch No: B7 - 1A3E
+
 <!--
 Team ID : PNT2022TMID37472
 
