@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 24 22:45:22 2022
-
-@author: lubna
-"""
 
 from flask import Flask,request,redirect,url_for,render_template
 app=Flask(__name__)
