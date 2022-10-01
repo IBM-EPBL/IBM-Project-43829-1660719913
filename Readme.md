@@ -8,6 +8,17 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 ### Team ID: PNT2022TMID37472
 ### Batch No: B7 - 1A3E
 
+### Team Leader:
+Lubna Fathima. N
+
+### Team Members:   
+Ganga M  
+Sugaiel Fathima A  
+Farhat A  
+
+### Problem Statement:
+
+
 <!--
 Team ID : PNT2022TMID37472
 
