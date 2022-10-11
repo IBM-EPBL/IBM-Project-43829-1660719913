@@ -37,7 +37,7 @@ Farhat Jabeen A
   - [x] Problem Solution Fit : 26 Sept - 01 Oct 2022
   - [x] Solution Architecture : 26 Sept - 01 Oct 2022
 - [ ] Project Design Phase -II
-  - [ ] Customer Journey : 3 - 8 Oct 2022
+  - [x] Customer Journey : 3 - 8 Oct 2022
   - [x] Functional Requirement Document : 10 - 15 Oct 2022
   - [x] Data Flow Daigrams :  10 - 15 Oct 2022
   - [ ] Technology Architecture :  10 - 15 Oct 2022
