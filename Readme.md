@@ -24,7 +24,7 @@ Lubna Fathima. N
 ### Team Members:   
 Ganga M  
 Sugaiel Fathima A  
-Farhat A  
+Farhat Jabeen A  
 
 ### Checklist:
 - [x] Ideation Phase
