@@ -27,10 +27,10 @@ Sugaiel Fathima A
 Farhat A  
 
 ### Checklist:
-- [ ] Ideation Phase
+- [x] Ideation Phase
   - [x] Literature Survey : 29 Aug - 3rd Sept 2022
   - [x] Empathy Map : 5 - 10th Sept 2022
-  - [ ] Problem Statement : 5 - 10th Sept 2022
+  - [x] Problem Statement : 5 - 10th Sept 2022
   - [x] Ideation : 12 - 17 Sept 2022
 - [x] Project Design Phase -I
   - [x] Proposed Solution : 19 - 24 Sept 2022 
@@ -38,8 +38,8 @@ Farhat A
   - [x] Solution Architecture : 26 Sept - 01 Oct 2022
 - [ ] Project Design Phase -II
   - [ ] Customer Journey : 3 - 8 Oct 2022
-  - [ ] Functional Requirement Document : 10 - 15 Oct 2022
-  - [ ] Data Flow Daigrams :  10 - 15 Oct 2022
+  - [x] Functional Requirement Document : 10 - 15 Oct 2022
+  - [x] Data Flow Daigrams :  10 - 15 Oct 2022
   - [ ] Technology Architecture :  10 - 15 Oct 2022
 
 - [ ] Project Planning Phase
