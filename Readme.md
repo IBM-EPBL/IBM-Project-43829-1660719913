@@ -18,14 +18,6 @@
 ### Team ID: PNT2022TMID37472
 ### Batch No: B7 - 1A3E
 
-### Team Leader:
-Lubna Fathima. N
-
-### Team Members:   
-Ganga M  
-Sugaiel Fathima A  
-Farhat Jabeen A  
-
 ### Checklist:
 - [x] Ideation Phase
   - [x] Literature Survey : 29 Aug - 3rd Sept 2022
