@@ -3,6 +3,7 @@
 ## Category: Cloud App Development
 
 ### Problem Statement:
+Customer can use the app to browse the products and add them to their shopping cart. The bot will assist users in receiving product recommendation.
 
 ### Skills :
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-%3776AB.svg?style=for-the-badge&logo=ibm&logoColor=white&color=4DB33D)
