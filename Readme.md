@@ -40,7 +40,7 @@ Farhat Jabeen A
   - [x] Customer Journey : 3 - 8 Oct 2022
   - [x] Functional Requirement Document : 10 - 15 Oct 2022
   - [x] Data Flow Daigrams :  10 - 15 Oct 2022
-  - [ ] Technology Architecture :  10 - 15 Oct 2022
+  - [x] Technology Architecture :  10 - 15 Oct 2022
 
 - [ ] Project Planning Phase
   - [ ] Milestone : 17 - 22 Oct 2022 
