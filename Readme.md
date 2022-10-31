@@ -38,7 +38,7 @@ Customer can use the app to browse the products and add them to their shopping c
 - [x] Project Planning Phase
   - [x] Milestone : 17 - 22 Oct 2022 
   - [x] Activity List : 17 - 22 Oct 2022 
-  - [] Sprint Delivery Plan : 17 - 22 Oct 2022 
+  - [x] Sprint Delivery Plan : 17 - 22 Oct 2022 
 
 - [ ] Project Development Phase
   - [ ] Sprint 1 : 24 - 29 Oct 2022
