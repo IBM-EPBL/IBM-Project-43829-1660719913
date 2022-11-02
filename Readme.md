@@ -40,6 +40,13 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Activity List : 17 - 22 Oct 2022 
   - [x] Sprint Delivery Plan : 17 - 22 Oct 2022 
 
+- [x] Setting Up Application Environment
+  - [ ] Create Flask Project
+  - [ ] Create IBM Cloud Account
+  - [ ] Install IBM Cloud CLI
+  - [ ] Install Docker CLI
+  - [ ] Create an Account in Sendgrid  
+
 - [ ] Project Development Phase
   - [ ] Sprint 1 : 24 - 29 Oct 2022
   - [ ] Sprint 2 : 31 Oct - 5 Nov 2022
