@@ -41,7 +41,7 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Sprint Delivery Plan : 17 - 22 Oct 2022 
 
 - [x] Setting Up Application Environment
-  - [ ] Create Flask Project
+  - [x] Create Flask Project
   - [ ] Create IBM Cloud Account
   - [ ] Install IBM Cloud CLI
   - [ ] Install Docker CLI
