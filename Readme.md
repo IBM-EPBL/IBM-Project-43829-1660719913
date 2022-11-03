@@ -49,7 +49,7 @@ Customer can use the app to browse the products and add them to their shopping c
   
 - [x] Implementing Web Application
   - [ ] Create UI to interact with Application
-  - [ ] Create IBM DB2 and Connect with Python
+  - [x] Create IBM DB2 and Connect with Python
 
 - [ ] Project Development Phase
   - [ ] Sprint 1 : 24 - 29 Oct 2022
