@@ -44,7 +44,7 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Create Flask Project
   - [x] Create IBM Cloud Account
   - [x] Install IBM Cloud CLI
-  - [ ] Install Docker CLI
+  - [x] Install Docker CLI
   - [ ] Create an Account in Sendgrid  
 
 - [ ] Project Development Phase
