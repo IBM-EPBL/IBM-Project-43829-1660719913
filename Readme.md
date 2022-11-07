@@ -48,7 +48,7 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Create an Account in Sendgrid 
   
 - [x] Implementing Web Application
-  - [ ] Create UI to interact with Application
+  - [x] Create UI to interact with Application
   - [x] Create IBM DB2 and Connect with Python
 
 - [ ] Integrating Sendgrid Service
