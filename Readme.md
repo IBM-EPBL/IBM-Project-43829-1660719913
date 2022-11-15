@@ -67,3 +67,6 @@ Customer can use the app to browse the products and add them to their shopping c
   - [ ] Sprint 2 : 31 Oct - 5 Nov 2022
   - [ ] Sprint 3 : 7 - 12 Nov 2022
   - [ ] Sprint 4 : 14 - 19 Nov 2022
+
+ - [ ] User Testing
+ - [ ] Performance Testing
