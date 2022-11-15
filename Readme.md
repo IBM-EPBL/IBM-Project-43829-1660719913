@@ -52,7 +52,7 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Create IBM DB2 and Connect with Python
 
 - [ ] Integrating Sendgrid Service
-  - [ ] Sendgrid Integration with Python Code
+  - [x] Sendgrid Integration with Python Code
 
 - [ ] Developing a Chatbot
   - [ ] Building Chatbot and Integrate to Application
