@@ -63,7 +63,7 @@ Customer can use the app to browse the products and add them to their shopping c
   - [ ] Deploy in Kubernetes Cluster
 
 - [ ] Project Development Phase
-  - [ ] Sprint 1 : 24 - 29 Oct 2022
+  - [x] Sprint 1 : 24 - 29 Oct 2022
   - [ ] Sprint 2 : 31 Oct - 5 Nov 2022
   - [ ] Sprint 3 : 7 - 12 Nov 2022
   - [ ] Sprint 4 : 14 - 19 Nov 2022
