@@ -55,7 +55,7 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Sendgrid Integration with Python Code
 
 - [ ] Developing a Chatbot
-  - [ ] Building Chatbot and Integrate to Application
+  - [x] Building Chatbot and Integrate to Application
 
 - [ ] Deployment of App in IBM Cloud
   - [ ] Containerize the App
