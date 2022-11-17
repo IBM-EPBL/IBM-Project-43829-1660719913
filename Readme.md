@@ -60,7 +60,7 @@ Customer can use the app to browse the products and add them to their shopping c
 - [ ] Deployment of App in IBM Cloud
   - [x] Containerize the App
   - [x] Upload Image to IBM Container Registry
-  - [ ] Deploy in Kubernetes Cluster
+  - [x] Deploy in Kubernetes Cluster
 
 - [ ] Project Development Phase
   - [x] Sprint 1 : 24 - 29 Oct 2022
