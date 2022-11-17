@@ -58,7 +58,7 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Building Chatbot and Integrate to Application
 
 - [ ] Deployment of App in IBM Cloud
-  - [ ] Containerize the App
+  - [x] Containerize the App
   - [ ] Upload Image to IBM Container Registry
   - [ ] Deploy in Kubernetes Cluster
 
