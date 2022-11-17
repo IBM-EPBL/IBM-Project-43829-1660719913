@@ -59,7 +59,7 @@ Customer can use the app to browse the products and add them to their shopping c
 
 - [ ] Deployment of App in IBM Cloud
   - [x] Containerize the App
-  - [ ] Upload Image to IBM Container Registry
+  - [x] Upload Image to IBM Container Registry
   - [ ] Deploy in Kubernetes Cluster
 
 - [ ] Project Development Phase
