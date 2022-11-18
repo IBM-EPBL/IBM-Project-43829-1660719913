@@ -51,22 +51,19 @@ Customer can use the app to browse the products and add them to their shopping c
   - [x] Create UI to interact with Application
   - [x] Create IBM DB2 and Connect with Python
 
-- [ ] Integrating Sendgrid Service
+- [x] Integrating Sendgrid Service
   - [x] Sendgrid Integration with Python Code
 
-- [ ] Developing a Chatbot
+- [x] Developing a Chatbot
   - [x] Building Chatbot and Integrate to Application
 
-- [ ] Deployment of App in IBM Cloud
+- [x] Deployment of App in IBM Cloud
   - [x] Containerize the App
   - [x] Upload Image to IBM Container Registry
   - [x] Deploy in Kubernetes Cluster
 
-- [ ] Project Development Phase
+- [x] Project Development Phase
   - [x] Sprint 1 : 24 - 29 Oct 2022
   - [x] Sprint 2 : 31 Oct - 5 Nov 2022
   - [x] Sprint 3 : 7 - 12 Nov 2022
   - [x] Sprint 4 : 14 - 19 Nov 2022
-
- - [ ] User Testing
- - [ ] Performance Testing
