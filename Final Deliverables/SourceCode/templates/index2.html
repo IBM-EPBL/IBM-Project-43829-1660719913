@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Smart Fashion</title>
+    <link rel="stylesheet" href="../static/home.css">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link class="favicon" rel="shortcut icon" href="/static/img/Admin.jpeg" type="image/x-icon">
+</head>
+<body>
+    <!-- navbar -->
+    <header class="header-navbar">
+        <div class="px-3 py-2 border-bottom mb-0" style="background-color: #000;">
+            <div class="container">
+                <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+                    <form class="col-12 col-lg-auto mb-0 mb-lg-0 me-lg-auto" role="search" target="_blank" action="results.html">
+                    <li class="px-5 py-0 nav-item"><a href="#" class="nav-link text-light fw-bolder fs-5 text-uppercase">Smart Fashion</a></li>
+                    </form>
+                    <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
+
+                        <li><a href="cart" class="nav-link text-bg-light">Cart</a></li>
+                        <li><a href="logout" class="nav-link text-bg-dark">Log Out</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- MAIN -->
+    <h3>{{msg}}</h3>
+    <main class="main-div">
+        <div class="main-top">
+            <div class="main main-1 main-blank main-blank-white"></div>
+            <div class="main main-2 main-img"></div>
+            <div class="main main-3 main-msg main-msg-white">
+                <h2 class="h2-main-msg">A-Z Collections</h2>
+                <h3 class="h3-main-msg">Traditional yet Trending</h3>
+                <div class="hr"></div>
+                <a href="#" class="a-main-msg">Shop Now</a>
+            </div>
+            <div class="main main-4 main-blank main-blank-white"></div>
+        </div>
+        <div class="main-btm">
+            <div class="main main-5 main-blank main-blank-green"></div>
+            <div class="main main-6 main-msg main-msg-green">
+                <h2 class="h2-main-msg">Elegant & Slick</h2>
+                <h3 class="h3-main-msg">Suitable for all</h3>
+                <div class="hr"></div>
+                <a href="#" class="a-main-msg">Shop Now</a>
+            </div>
+            <div class="main main-7 main-img"></div>
+            <div class="main main-8 main-blank main-blank-green"></div>
+        </div>
+    </main>
+
+    <!-- Our Products -->
+    <div class="container cont_new">
+        <h2 class="h2_cont_new">Our Products</h2>
+        <div class="cont-card">
+            <div class="card border-0" style="width: 18rem;">
+                <img src="/static/img/accessories1.png" class="card-img-top" alt="new1">
+                <div class="card-body">
+                    <p class="card-head text-center">Pleated Skirt</p>
+                    <p class="card-para text-center">$ 4.99</p>
+                    <a href="cart" type="button" class="btn btn-dark w-100">Add to Cart</a>
+                </div>
+            </div>
+            <div class="card border-0" style="width: 18rem;">
+                <img src="/static/img/men1.png" class="card-img-top" alt="new2">
+                <div class="card-body">
+                    <p class="card-head text-center">Slim Fit Chinos</p>
+                    <p class="card-para text-center">$ 4.50</p>
+                    <a href="cart" type="button" class="btn btn-dark w-100">Add to Cart</a>
+                </div>
+            </div>
+            <div class="card border-0" style="width: 18rem;">
+                <img src="/static/img/women1.png" class="card-img-top" alt="new3">
+                <div class="card-body">
+                    <p class="card-head text-center">Printed Chiffon Dress</p>
+                    <p class="card-para text-center">$ 12.00</p>
+                    <a href="cart" type="button" class="btn btn-dark w-100">Add to Cart</a>
+                </div>
+            </div>
+        </div>
+        <div class="cont-card">
+            <div class="card border-0" style="width: 18rem;">
+                <img src="/static/img/women2.png" class="card-img-top" alt="new1">
+                <div class="card-body">
+                    <p class="card-head text-center">Pleated Skirt</p>
+                    <p class="card-para text-center">$ 4.99</p>
+                    <a href="cart" type="button" class="btn btn-dark w-100">Add to Cart</a>
+                </div>
+            </div>
+            <div class="card border-0" style="width: 18rem;">
+                <img src="/static/img/accessories2.png" class="card-img-top" alt="new2">
+                <div class="card-body">
+                    <p class="card-head text-center">Slim Fit Chinos</p>
+                    <p class="card-para text-center">$ 4.50</p>
+                    <a href="cart" type="button" class="btn btn-dark w-100">Add to Cart</a>
+                </div>
+            </div>
+            <div class="card border-0" style="width: 18rem;">
+                <img src="/static/img/men2.png" class="card-img-top" alt="new3">
+                <div class="card-body">
+                    <p class="card-head text-center">Printed Chiffon Dress</p>
+                    <p class="card-para text-center">$ 12.00</p>
+                    <a href="cart" type="button" class="btn btn-dark w-100">Add to Cart</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        window.watsonAssistantChatOptions = {
+          integrationID: "b9c28e49-ac9c-4dab-a058-35daed407181", // The ID of this integration.
+          region: "au-syd", // The region your integration is hosted in.
+          serviceInstanceID: "7a154232-da39-48b2-9d77-7dbb51a690fd", // The ID of your service instance.
+          onLoad: function(instance) { instance.render(); }
+        };
+        setTimeout(function(){
+          const t=document.createElement('script');
+          t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+          document.head.appendChild(t);
+        });
+      </script>
+</body>

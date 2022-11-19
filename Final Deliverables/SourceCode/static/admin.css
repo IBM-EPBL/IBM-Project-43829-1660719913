@@ -1,0 +1,117 @@
+img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .bg-black {
+    background: #000;
+  }
+  
+  .skill-block {
+    width: 30%;
+  }
+  
+  @media (min-width: 991px) and (max-width:1200px) {
+    .skill-block {
+      padding: 32px !important;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .skill-block {
+      padding: 56px !important;
+    }
+  }
+
+.line {
+    height: 1px;
+    background-color: #EEEEEE;
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.card {
+    width: 650px;
+    margin: auto;
+}
+
+.user-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.fa-star.active {
+    color: #E91E63;
+}
+
+/* .btn-pink {
+    background-color: #E91E63;
+    color: #fff;
+    height: 70px;
+    padding: 20px 30px;
+    margin-top: 15px;
+}
+
+.btn-pink:hover {
+    background-color: #D81B60;
+} */
+
+.image-bg {
+    width: 100px;
+}
+
+.fit-image {
+    object-fit: cover;
+    width: 100%;
+}
+
+.prod-pic {
+    width: 80px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.prod-bg {
+    width: 19.5%;
+    height: 110px;
+    background-color: #E0E0E0;
+    margin-bottom: 10px;
+}
+
+.fat-img {
+    width: 94px;
+    height: 100px;
+}
+
+.more {
+    width: 19.5%;
+    height: 110px;
+    color: #fff;
+    background-color: #000;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 677px) {
+    .card {
+        width: 100%;
+        margin: auto;
+    }
+/* 
+    .btn-pink {
+        width: 100%;
+        height: 40px;
+        padding: 6px 30px;
+    } */
+
+    .prod-bg {
+        width: 33%;
+        height: 110px;
+        background-color: #E0E0E0;
+    }
+
+    .more {
+        width: 66%;
+    } 
+}
